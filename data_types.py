@@ -25,13 +25,13 @@ greeting("Alejandro")
 
 # Question 3: Create a list of your favorite movies with  at least 4 elements:
 
-my_list = ["12 Angry Men", "Memento", "The Drak Knight", "Inception"]
+my_list = ["The Mask", "Memento", "Batman", "From Dusk Til Dawn"]
 
 # Question 4: Use a print statement to print the list item at the index of 1:
 print(my_list[1])
 
 # Question 5: Append a movie to the end of your list:
-my_list.append("Encanto")
+my_list.append("Back to the Future")
 
 # Use a print statement to print this ammended list:
 print(my_list)
@@ -73,9 +73,9 @@ print(band)
 # Question 10: Uncomment and look into this nested dictionary - try to relate your knowledge of objects and arrays in JavaScript.
 
 students_in_order = {
-  1: {'name': 'Esteban', 'age': '27', 'eye color': 'blue'},
-  2: {'name': 'Jackson', 'age': '22', 'eye color': 'brown'},
-  3: {'name': 'Zayn', 'age': '26', 'eye color': 'green'}
+  1: {'name': 'Kevin', 'age': '27', 'eye color': 'blue'},
+  2: {'name': 'John', 'age': '22', 'eye color': 'brown'},
+  3: {'name': 'Angie', 'age': '26', 'eye color': 'green'}
 }
 
 # Question 10 A: Write a print function that outputs the second student in the dictionary
