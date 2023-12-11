@@ -20,7 +20,7 @@ def eat_lunch(my_lst):
       if i == 0:
         print(f"First I eat {my_lst[0]}")
       else:
-        print(f"Next I eat {my_lst[i]}")
+        print(f"Then I eat {my_lst[i]}")
 
 eat_lunch(["sushi"])
 eat_lunch(["oreos","ramen","burgers","ice cream"])
